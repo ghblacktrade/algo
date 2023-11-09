@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo-Debug-dc6102ea42e6c27371e4.json",
+					"jsonFile" : "target-algo-Debug-88a50b69f382da188b51.json",
 					"name" : "algo",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
