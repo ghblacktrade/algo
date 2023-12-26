@@ -4,5 +4,4 @@ project(algo)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(algo math/bin_pow/bin_pow.cpp
-        KerniganRitchi.c
         leet380code.cpp)
